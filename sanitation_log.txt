@@ -1,5 +1,12 @@
+===============================================================
+           SMART WASTE MANAGEMENT - SANITATION LOG
+===============================================================
+
 Bin ID: 1 | Location: Library | Fill Level: 0% | Hours Since Cleaned: 0
-Bin ID: 2 | Location: Hostel | Fill Level: 50% | Hours Since Cleaned: 24
+Bin ID: 2 | Location: Hostel | Fill Level: 2% | Hours Since Cleaned: 3
 Bin ID: 3 | Location: Canteen | Fill Level: 0% | Hours Since Cleaned: 0
-Bin ID: 4 | Location: Admin Block | Fill Level: 70% | Hours Since Cleaned: 50
+Bin ID: 4 | Location: Admin Block | Fill Level: 0% | Hours Since Cleaned: 0
 Bin ID: 5 | Location: Playground | Fill Level: 0% | Hours Since Cleaned: 0
+
+===============================================================
+Report generated automatically by Smart Waste Management System
