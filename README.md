@@ -18,6 +18,6 @@ An AI-based smart waste management system that uses sensors and automation to ef
 
 ## 🧠 AI Involvement
 - Future integration of object recognition using Machine Learning
-- Predictive analysis for waste collection schedule (upcoming)
+- Predictive analysis for waste collection schedule (upcoming).
 
 
